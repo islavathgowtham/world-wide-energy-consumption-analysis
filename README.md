@@ -378,7 +378,7 @@ Overall, the project showcases how SQL can be effectively used for real-world an
 
 # 👨‍💻 AUTHOR
 
-## GOWTHAM
+## GOWTHAM ISLAVATH
 
 Artificial Intelligence & Data Science Student
 
@@ -394,6 +394,6 @@ Artificial Intelligence & Data Science Student
 [https://github.com/islavathgowtham/world-wide-energy-consumption-analysis/blob/main/ER%20DIAGRAM%20World%20Wide%20energy%20consumption%20project.pdf]
 
 ### 📊 Presentation
-[Add PPT Link Here]
+[https://github.com/islavathgowtham/world-wide-energy-consumption-analysis/blob/main/World%20Wide%20energy%20consumption%20project%20PPT.pptx]
 
 ---
