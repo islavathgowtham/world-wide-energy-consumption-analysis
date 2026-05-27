@@ -387,7 +387,7 @@ Artificial Intelligence & Data Science Student
 ## 🔗 PROJECT LINKS
 
 ### 💻 GitHub Repository
-[Add Your GitHub Repository Link Here]
+[https://github.com/islavathgowtham/world-wide-energy-consumption-analysis/tree/main]
 
 ### 📂 SQL Project File
 [Add SQL File Link Here]
