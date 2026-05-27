@@ -390,7 +390,7 @@ Artificial Intelligence & Data Science Student
 [https://github.com/islavathgowtham/world-wide-energy-consumption-analysis/tree/main]
 
 ### 📂 SQL Project File
-[Add SQL File Link Here]
+[https://github.com/islavathgowtham/world-wide-energy-consumption-analysis/blob/main/World%20Wide%20energy%20consumption%20project.sql]
 
 ### 📊 Presentation
 [Add PPT Link Here]
